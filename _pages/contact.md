@@ -13,14 +13,21 @@ Reach out using the form below — we’d love to hear from you.
 
 ---
 
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
-    <title>Contact
-</title>
-    <script async src="https://tally.so/widgets/embed.js"></script>
-    <style type="text/css">
-      html { margin: 0; height: 100%; overflow: hidden; }
-      iframe { position: absolute; top: 0; right: 0; bottom: 0; left: 0; border: 0; }
-    </style>
+<form action="https://api.web3forms.com/submit" method="POST">
+  <!-- Replace YOUR_ACCESS_KEY_HERE with your actual Web3Forms Access Key -->
+  <input type="hidden" name="access_key" value="26d5c76b-3b38-4a78-8981-b9af976b0dc9">
+
+  <label for="name"><strong>Name:</strong></label><br>
+  <input type="text" id="name" name="name" required><br><br>
+
+  <label for="email"><strong>Email:</strong></label><br>
+  <input type="email" id="email" name="email" required><br><br>
+
+  <label for="message"><strong>Message:</strong></label><br>
+  <textarea id="message" name="message" rows="5" required></textarea><br><br>
+
+  <button type="submit">Send</button>
+</form>
 
 ---
 
