@@ -1,18 +1,16 @@
-# OmniSocial ProtocolKit
+---
+layout: home
+title: "OmniSocial ProtocolKit"
+excerpt: "A modular starter kit for building decentralized, federated social platforms."
+author_profile: true
+---
 
-**Build the Decentralized Social Web**
+Welcome to **OmniSocial ProtocolKit** — a cypherpunk, freedom-tech framework for building decentralized social platforms. We support:
 
-OmniSocial ProtocolKit is a modular starter kit for building interoperable, decentralized social apps across the Fediverse and beyond.
+- **ActivityPub, AT Protocol, Nostr**
+- **DIDs, Webfinger, IndieWeb**
+- **Matrix, IPFS, Lightning Network**
 
-## What We’re About
+> Interoperability. Self-sovereignty. Microtransactions. Censorship Resistance.
 
-We believe in:
-
-- 🕸️ Decentralization
-- 🛡️ Self-sovereignty
-- 🗣️ Freedom of expression
-- 🔗 Interoperability
-- 🔐 Privacy & user data ownership
-- ⚡ Spam protection & microtransactions via Lightning
-
-[Explore the Docs](docs/index.md) • [Read the Blog](blog/index.md) • [Join the Collective](https://revolt.chat/invite)  
+[Explore the Docs](/docs/)

@@ -1,7 +1,14 @@
-# 🌟 Hall of Fame
-
-## Maintainers
-- @beitmenotyou-com
+---
+layout: single
+title: "Hall of Fame"
+permalink: /hall-of-fame/
+author_profile: true
+---
 
 ## Contributors
-_See full list on [GitHub](https://github.com/beitmenotyou-com/OmniSocial-ProtocolKit/graphs/contributors)_
+
+Thanks to everyone building the future of decentralized social tech!
+
+- [@beitmenotyou-com](https://github.com/beitmenotyou-com) – Lead Maintainer
+- [@contributor-name](https://github.com/...) – Docs & Testing
+- Add your name by contributing!
