@@ -9,6 +9,6 @@ author_profile: true
 
 Welcome to the official blog for **OmniSocial ProtocolKit** — covering project updates, protocol news, community highlights, and more.
 
-Browse our latest posts below 👇
+Stay tuned for updates from the fediverse, Lightning-powered features, and contributor spotlights.
 
-{% include archive.html %}
+👉 Check back soon for our first post!
