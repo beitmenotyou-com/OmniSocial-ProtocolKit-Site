@@ -1,0 +1,15 @@
+main:
+  - title: "Home"
+    url: /
+
+  - title: "Docs"
+    url: /docs/
+
+  - title: "Blog"
+    url: /blog/
+
+  - title: "Hall of Fame"
+    url: /hall-of-fame/
+
+  - title: "Contact"
+    url: /contact/

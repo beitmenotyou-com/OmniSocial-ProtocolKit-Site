@@ -1,0 +1,15 @@
+docs:
+  - title: "Getting Started"
+    url: /docs/getting-started/
+
+  - title: "Protocol Architecture"
+    url: /docs/protocol-architecture/
+
+  - title: "Features"
+    url: /docs/features/
+
+  - title: "Developer Guide"
+    url: /docs/developer-guide/
+
+  - title: "API Reference"
+    url: /docs/api-reference/
