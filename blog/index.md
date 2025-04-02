@@ -1,7 +1,7 @@
 ---
-layout: Blog
-title: "OmniSocial ProtocolKit"
-excerpt: "A modular starter kit for building decentralized, federated social platforms."
+layout: single
+title: "Blog"
+permalink: /Blog/
 author_profile: true
 ---
 
