@@ -1,7 +1,7 @@
 ---
-layout: Docs
-title: "OmniSocial ProtocolKit"
-excerpt: "A modular starter kit for building decentralized, federated social platforms."
+layout: single
+title: "Docs"
+permalink: /docs/
 author_profile: true
 ---
 
